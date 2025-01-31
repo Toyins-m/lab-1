@@ -2,5 +2,5 @@
 
 This is my first repository on GitHub!
 
-{My website on Pages:}(https://toyins-m.github.io/lab-1/)
+My website on Pages:(https://toyins-m.github.io/lab-1/)
 
